@@ -75,6 +75,7 @@ display:inline-block;
 {
 	background-color:transparent;
 	border:unset;
+	font-weight: bolder;
 }
 #embed
 {
